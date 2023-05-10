@@ -4,4 +4,4 @@ The Association for Computing Machinery, or ACM at UC San Diego is UC San Diego'
 with over 2,000 members and over 200 technical, professional, and social events year-round. We’re not just computing, though — we 
 bring together anyone and everyone who shares our love of technology, design, and innovation!
 
-If you'd like to learn more about ACM, you can visit our wiki at [acmurl.com/wiki](https://acmurl.com/wiki). 
+If you'd like to learn more about ACM, you can visit our website at [acmucsd.com](https://acmucsd.com) or the wiki at [acmurl.com/wiki](https://acmurl.com/wiki)! 
